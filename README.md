@@ -1,90 +1,83 @@
 # Olá! Eu sou o Luis 👋
 
-🎓 **Técnico em Eletrônica** | 🔐 Estudante de **Segurança da Informação**
+Gosto de entender como as coisas funcionam antes de tentar modificá-las, automatizá-las ou encontrar uma forma melhor de executá-las. Essa forma de pensar acabou acompanhando minha trajetória, desde a eletrônica e automação até programação, sistemas e infraestrutura.
 
-Minha trajetória começou na **Eletrônica**, onde tive contato com hardware, lógica de programação e desenvolvimento de projetos utilizando **C++ e Arduino**.
+Sou Técnico em Eletrônica e atualmente estudo Segurança da Informação. Ao longo da minha formação e experiências, tive contato com eletrônica, automação industrial, sistemas de segurança eletrônica, programação e automação de processos.
 
-Atualmente, estou direcionando essa base para a área de **Cybersecurity**, aprofundando meus conhecimentos em **Linux, Redes, Python e Automação**.
+Hoje, meu interesse está cada vez mais voltado para software, sistemas, redes, infraestrutura, automação e Segurança da Informação.
 
-Gosto de entender **como as coisas funcionam**, identificar problemas, buscar soluções práticas e automatizar atividades repetitivas. Tenho interesse especial em **desenvolvimento e automação**, buscando unir conhecimentos de hardware, software e segurança para construir projetos cada vez mais completos.
+## 🛠️ Conhecimentos e ferramentas
 
-## 🧠 Sobre mim
+### 💻 Programação & Automação
 
-Minha experiência com tecnologia começou de forma bastante prática. Durante minha formação e experiências profissionais, tive contato com diferentes áreas, passando por eletrônica, automação industrial, programação e sistemas de segurança eletrônica.
+* **C / C++** — fundamentos de programação, Arduino e microcontroladores
+* **Python** — estudos e desenvolvimento de pequenos scripts e automações
+* **VBA** — automação de processos com Excel e Word
+* **HTML / CSS** — fundamentos de desenvolvimento web
+* **Arduino** — programação e projetos com microcontroladores
 
-Na área de automação industrial, trabalhei com montagem, instalação e manutenção de painéis, envolvendo motores, inversores de frequência, relés e outros componentes utilizados em sistemas de controle. Na eletrônica, também tive contato com C++, Arduino e microcontroladores, desenvolvendo projetos que envolviam hardware e software.
+### 🖥️ Sistemas & Virtualização
 
-Posteriormente, trabalhei com instalação e manutenção de sistemas de segurança eletrônica, como câmeras, alarmes, sensores de movimento, cercas elétricas, concertinas e portões eletrônicos. Essa experiência também envolvia diagnóstico de problemas, manutenção e suporte aos clientes.
+* **Windows**
+* **Linux**
+* **VirtualBox**
+* **Git & GitHub**
+* **Zabbix** — monitoramento e acompanhamento de infraestrutura
 
-Atualmente, estou ampliando minha base em tecnologia estudando Linux, Redes, Python e desenvolvimento, enquanto continuo explorando automação e programação.
+### 🌐 Redes & Infraestrutura
 
-Gosto de aprender entendendo como as coisas funcionam
+* Fundamentos de redes de computadores
+* **TCP/IP**
+* **DNS**
+* **DHCP**
+* **HTTP / HTTPS**
+* **NAT**
+* **Firewalls**
+* **iptables**
+* Configuração e diagnóstico de redes
+* Segmentação e isolamento de redes em ambientes virtualizados
 
-## 🛠️ Tecnologias e conhecimentos
+### ☁️ Cloud
 
-### 💻 Programação
+* **AWS**
+* AWS Academy Cloud Foundations
+* Fundamentos de computação em nuvem
 
-* C++
-* Python
-* HTML & CSS
+### ⚡ Eletrônica & Automação Industrial
 
-### ⚡ Eletrônica & Automação
-
-* Arduino
-* Microcontroladores
 * Eletrônica
-* Automação
-* Projetos envolvendo hardware e software
+* **Arduino e microcontroladores**
+* Automação industrial
+* Construção e manutenção de painéis de automação
+* Motores
+* Inversores de frequência
+* Relés e componentes de comando
+* Instalação, manutenção e diagnóstico de equipamentos
 
-### 🐧 Sistemas
+### 📹 Segurança Eletrônica
 
-* Linux
-* Windows
+* **CFTV**
+* Configuração de DVRs
+* Câmeras e acesso remoto
+* Alarmes
+* Sensores de movimento
+* Cercas elétricas
+* Concertinas
+* Portões eletrônicos
+* Instalação, manutenção e diagnóstico
 
-### 🌐 Redes
+## 🔭 Atualmente
 
-* TCP/IP
-* DNS & DHCP
-* HTTP/HTTPS
-* Portas e serviços
-* Fundamentos de redes
-* Firewall & iptables
+Estou aprofundando meus conhecimentos principalmente em:
 
-### 🔐 Cybersecurity
+* **Python**
+* **Linux**
+* **Redes e infraestrutura**
+* **Git e GitHub**
+* **Segurança da Informação**
 
-* Fundamentos de Segurança da Informação
-* Segurança de sistemas
-* Princípio do menor privilégio
-* Análise de eventos e logs
-* Reconhecimento e análise de serviços
-
-## 🚀 Projetos
-
-Aqui irei compartilhar projetos, experimentos e estudos desenvolvidos ao longo da minha jornada.
-
-### 🔭 Atualmente estudando
-
-```text
-Cybersecurity
-├── Linux
-├── Redes
-├── Segurança de Sistemas
-└── Laboratórios práticos
-
-Desenvolvimento & Automação
-├── Python
-├── C++
-├── Arduino
-├── Automação
-└── I.A's
-```
-
-## 🎯 Objetivo
-
-Construir uma carreira na área de **Tecnologia**, desenvolvendo uma base sólida em programação, sistemas, redes e segurança.
+Também venho experimentando ambientes virtualizados e ferramentas de monitoramento, criando pequenos laboratórios para entender melhor como sistemas, redes e serviços funcionam na prática.
 
 ---
+> **"Entender como as coisas funcionam é o primeiro passo para descobrir como melhorá-las."**
 
-> "Entender como as coisas funcionam é o primeiro passo para descobrir como melhorá-las."
-
-📚 **Sempre aprendendo.**
