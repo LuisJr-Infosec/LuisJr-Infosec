@@ -4,7 +4,7 @@
 
 Minha trajetória começou na **Eletrônica**, onde tive contato com hardware, lógica de programação e desenvolvimento de projetos utilizando **C++ e Arduino**.
 
-Atualmente, estou direcionando essa base para a área de **Cybersecurity**, aprofundando meus conhecimentos em **Linux, Redes, Python, Automação e Segurança da Informação**.
+Atualmente, estou direcionando essa base para a área de **Cybersecurity**, aprofundando meus conhecimentos em **Linux, Redes, Python e Automação**.
 
 Gosto de entender **como as coisas funcionam**, identificar problemas, buscar soluções práticas e automatizar atividades repetitivas. Tenho interesse especial em **desenvolvimento e automação**, buscando unir conhecimentos de hardware, software e segurança para construir projetos cada vez mais completos.
 
