@@ -13,11 +13,9 @@ Gosto de entender **como as coisas funcionam**, identificar problemas, buscar so
 * 🔐 Estudante de **Segurança da Informação**
 * ⚡ **Técnico em Eletrônica**
 * 💻 Experiência acadêmica com **C++ e Arduino**
-* 🐍 Estudando **Python** e automação
+* 🐍 Estudando **Python**
 * 🐧 Aprofundando conhecimentos em **Linux**
 * 🌐 Estudando **Redes de Computadores**
-* 🛡️ Desenvolvendo conhecimentos em **Cybersecurity**
-* 🔎 Tenho interesse em entender sistemas, identificar problemas e encontrar soluções
 
 ## 🛠️ Tecnologias e conhecimentos
 
