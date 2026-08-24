@@ -10,12 +10,15 @@ Gosto de entender **como as coisas funcionam**, identificar problemas, buscar so
 
 ## 🧠 Sobre mim
 
-* 🔐 Estudante de **Segurança da Informação**
-* ⚡ **Técnico em Eletrônica**
-* 💻 Experiência acadêmica com **C++ e Arduino**
-* 🐍 Estudando **Python**
-* 🐧 Aprofundando conhecimentos em **Linux**
-* 🌐 Estudando **Redes de Computadores**
+Minha experiência com tecnologia começou de forma bastante prática. Durante minha formação e experiências profissionais, tive contato com diferentes áreas, passando por eletrônica, automação industrial, programação e sistemas de segurança eletrônica.
+
+Na área de automação industrial, trabalhei com montagem, instalação e manutenção de painéis, envolvendo motores, inversores de frequência, relés e outros componentes utilizados em sistemas de controle. Na eletrônica, também tive contato com C++, Arduino e microcontroladores, desenvolvendo projetos que envolviam hardware e software.
+
+Posteriormente, trabalhei com instalação e manutenção de sistemas de segurança eletrônica, como câmeras, alarmes, sensores de movimento, cercas elétricas, concertinas e portões eletrônicos. Essa experiência também envolvia diagnóstico de problemas, manutenção e suporte aos clientes.
+
+Atualmente, estou ampliando minha base em tecnologia estudando Linux, Redes, Python e desenvolvimento, enquanto continuo explorando automação e programação.
+
+Gosto de aprender entendendo como as coisas funcionam
 
 ## 🛠️ Tecnologias e conhecimentos
 
